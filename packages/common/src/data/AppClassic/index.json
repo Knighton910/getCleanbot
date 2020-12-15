@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "logo": "../../assets/image/appClassic/logo.png",
+    "logo": "../../assets/image/appClassic/cor.png",
     "navMenu": [
       {
         "id": 1,
@@ -178,8 +178,8 @@
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features that Lorem ipsum dolor sit amet consectetur."
   },
   "featuresTab": {
-    "slogan": "DIFFERENTIATION",
-    "title": "Ultimate features that we built",
+    "slogan": "Come Clean On Our Platform",
+    "title": "We're hiring",
     "tab": [
       {
         "id": 1,
@@ -355,7 +355,7 @@
         "description": "Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.",
         "avatar": "https://pbs.twimg.com/profile_images/974736784906248192/gPZwCbdS.jpg",
         "name": "Jon Doe",
-        "designation": "CEO of RedQ Inc.",
+        "designation": "Poop.",
         "review": 4
       },
       {
@@ -373,7 +373,7 @@
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features Lorem ipsum dolor sit amet consectetur adipisicing.",
         "avatar": "https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg",
         "name": "Jon Doe",
-        "designation": "Co Founder of RedQ Inc.",
+        "designation": "Poop.",
         "review": 5
       }
     ]
@@ -384,7 +384,7 @@
     "faqs": [
       {
         "id": 1,
-        "question": "How to contact with riders emergency?",
+        "question": "How to contact Cleaners in emergency?",
         "answer": "Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news."
       },
       {

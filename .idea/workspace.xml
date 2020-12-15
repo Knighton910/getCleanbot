@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bfbc415-e5ce-41af-92e0-6e6666b73751" name="Default Changelist" comment="" />
+    <list default="true" id="8bfbc415-e5ce-41af-92e0-6e6666b73751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/2favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/OGfavicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/app/Oglogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/OGlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/PremiumCleaner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/holiday.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/workerCovid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/worker_Earned.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/cor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/common/src/assets/image/holiday.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/assets/image/app/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/assets/image/app/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/assets/image/appClassic/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/assets/image/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/assets/image/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/assets/image/interior/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/assets/image/interior/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/data/AppClassic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/data/AppClassic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/src/data/AppClassic/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/src/data/AppClassic/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/landing/containers/App/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/landing/containers/App/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/landing/containers/AppClassic/Banner/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/landing/containers/AppClassic/Banner/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/landing/containers/AppClassic/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/landing/containers/AppClassic/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/landing/containers/OG-AppClassic/Banner/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/landing/containers/OG-AppClassic/Banner/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/landing/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/landing/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
@@ -17,6 +45,7 @@
     <option name="sortBySeverity" value="false" />
   </component>
   <component name="ProjectId" id="1kTmACaE0LvZrCsrrwBTP1zrsJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +78,9 @@
       <workItem from="1607055408286" duration="2146000" />
       <workItem from="1607136873645" duration="319000" />
       <workItem from="1607210360162" duration="1294000" />
+      <workItem from="1607274781464" duration="1032000" />
+      <workItem from="1607303079904" duration="5732000" />
+      <workItem from="1607453144076" duration="7918000" />
     </task>
     <servers />
   </component>
@@ -62,18 +94,21 @@
     <state x="196" y="0" key="SettingsEditor/0.0.1440.900/-125.-1080.1920.1080@0.0.1440.900" timestamp="1605742612867" />
     <state x="196" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1606317535910" />
     <state x="196" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1606521733209" />
-    <state width="500" height="475" key="SwitcherDM" timestamp="1606441058035">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="500" height="488" key="SwitcherDM" timestamp="1607454017582">
+      <screen x="125" y="1080" width="1440" height="900" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.823/-125.-1057.1920.1057@0.23.1440.823" timestamp="1606270151656" />
     <state width="500" height="475" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1606441058035" />
-    <state x="347" y="147" width="992" height="703" key="find.popup" timestamp="1607055726275">
-      <screen x="0" y="23" width="1395" height="877" />
+    <state width="500" height="488" key="SwitcherDM/125.1080.1440.900/0.0.1920.1080@125.1080.1440.900" timestamp="1607454017582" />
+    <state x="350" y="178" width="1024" height="722" key="find.popup" timestamp="1607487559499">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="127" width="1024" height="720" key="find.popup/0.0.1440.900/-125.-1080.1920.1080@0.0.1440.900" timestamp="1605832813207" />
+    <state x="350" y="178" width="1024" height="722" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1607487559499" />
     <state x="347" y="147" width="992" height="703" key="find.popup/0.23.1395.877@0.23.1395.877" timestamp="1607055726275" />
     <state x="358" y="139" width="1024" height="659" key="find.popup/0.23.1440.823/-125.-1057.1920.1057@0.23.1440.823" timestamp="1606270289987" />
     <state x="358" y="147" width="1024" height="703" key="find.popup/0.23.1440.877/-125.-1057.1920.1057@0.23.1440.877" timestamp="1606675264538" />
     <state x="358" y="147" width="1024" height="703" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1606491862947" />
+    <state x="483" y="1207" width="1024" height="722" key="find.popup/125.1080.1440.900/0.0.1920.1080@125.1080.1440.900" timestamp="1607485907151" />
   </component>
 </project>

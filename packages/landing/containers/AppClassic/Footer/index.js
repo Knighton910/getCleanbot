@@ -6,6 +6,7 @@ import Image from 'common/src/components/Image';
 import Logo from 'common/src/components/UIElements/Logo';
 import Heading from 'common/src/components/Heading';
 import Container from 'common/src/components/UI/Container';
+import cleanLogo from 'common/src/assets/image/cor.png'
 import FooterArea, {
   WidgetArea,
   MenuArea,
@@ -20,6 +21,9 @@ const Footer = () => {
   const { logo, menu, widgets } = footer;
   const date = new Date();
   const year = date.getFullYear();
+  const stylish = {
+    width: "70px"
+  }
 
   return (
     <FooterArea>
@@ -35,12 +39,7 @@ const Footer = () => {
         </WidgetArea>
         {/* End of footer widgets area */}
         <MenuArea>
-          <Logo
-            className="logo"
-            href="/appclassic"
-            logoSrc={logo}
-            title="App Classic"
-          />
+          <Image src={cleanLogo} alt="Cleanbot logo" style={stylish} />
           <Menu>
             {menu.map(item => (
               <MenuItem key={`footer-link${item.id}`}>
@@ -50,7 +49,7 @@ const Footer = () => {
               </MenuItem>
             ))}
           </Menu>
-          <CopyrightText>Copyright {year} By RedQ Inc</CopyrightText>
+          <CopyrightText>Copyright {year} By Cleanbot</CopyrightText>
         </MenuArea>
         {/* End of footer menu area */}
       </Container>

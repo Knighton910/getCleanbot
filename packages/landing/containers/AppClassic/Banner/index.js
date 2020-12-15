@@ -45,7 +45,7 @@ const Banner = () => {
           </Fade>
           <Fade up delay={300}>
             <ButtonGroup>
-              <Button className="primary" title="Start Free trail" />
+              <Button className="primary" title="Sign up for beta access" />
             </ButtonGroup>
           </Fade>
         </BannerContent>

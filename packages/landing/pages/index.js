@@ -26,12 +26,12 @@ export default function() {
     <ThemeProvider theme={theme}>
       <>
         <Head>
-          <title>App classic | A next js landing page</title>
-          <meta name="Description" content="React next landing page" />
+          <title>Cleanbot</title>
+          <meta name="Description" content="Cleanbot landing page" />
           <meta name="theme-color" content="#2563FF" />
           <meta
             name="keywords"
-            content="React, React js, Next, Next js, Super fast next js landing, Modren landing, Next js landing"
+            content="React js, Next, Next js"
           />
         </Head>
         {/* end of head */}

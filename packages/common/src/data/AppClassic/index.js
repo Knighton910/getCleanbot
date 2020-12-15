@@ -132,7 +132,7 @@ export const keyFeatures = {
 /* ------------------------------------ */
 import appSlide1 from 'common/src/assets/image/appClassic/enroutev2.png';
 import appSlide2 from 'common/src/assets/image/appClassic/loginOrsignin.png';
-import appSlide3 from 'common/src/assets/image/appClassic/appSlider3.png';
+import appSlide3 from 'common/src/assets/image/appClassic/PremiumCleaner.png';
 
 
 export const appSlider = {
@@ -248,13 +248,13 @@ export const features = {
 /* ------------------------------------ */
 // Design and built data section
 /* ------------------------------------ */
-import builtLogo from 'common/src/assets/image/appClassic/appAndMap.png';
+import builtLogo from 'common/src/assets/image/holiday.jpg';
 
 export const designAndBuilt = {
   image: builtLogo,
-  title: 'Designed & Built by the latest code integration',
+  title: 'Keeping you clean doing the holidays',
   description:
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features that Lorem ipsum dolor sit amet consectetur.',
+    'Super important to keep health and safety in mind during holidays. We’ve created a set of mandatory COVID-19 safety practices ',
 };
 
 /* ------------------------------------ */
@@ -271,59 +271,59 @@ import appTabImg1 from 'common/src/assets/image/appClassic/workerSignUp.png';
 import appTabImg2 from 'common/src/assets/image/appClassic/workerNewJob.png';
 import appTabImg3 from 'common/src/assets/image/appClassic/workerCheckList.png';
 import appTabImg4 from 'common/src/assets/image/appClassic/workerCash.png';
-import appTabImg5 from 'common/src/assets/image/appClassic/appTabImg6.png';
-import appTabImg6 from 'common/src/assets/image/appClassic/appTabImg6.png';
+import appTabImg5 from 'common/src/assets/image/appClassic/worker_Earned.png';
+import appTabImg6 from 'common/src/assets/image/appClassic/workerCovid.png';
 
 export const featuresTab = {
-  slogan: 'DIFFERENTIATION',
-  title: 'Ultimate features that we built',
+  slogan: 'Come Clean On Our Platform',
+  title: 'We\'re hiring 🎉',
   tab: [
     {
       id: 1,
       color: '#F55767',
       icon: appTabIcon1,
-      title: 'App Development',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'Work as a Cleaner',
+      description: 'Easy to get signed up and working. Thorough vetting.',
       image: appTabImg1,
     },
     {
       id: 2,
       color: '#40975F',
       icon: appTabIcon2,
-      title: 'Customization',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'See the job',
+      description: 'Before accepting the job see what they need done.',
       image: appTabImg2,
     },
     {
       id: 3,
       color: '#5856D6',
       icon: appTabIcon3,
-      title: 'UX Planning',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'See your progress',
+      description: 'Keep a friendly progress tracker from your phone.',
       image: appTabImg3,
     },
     {
       id: 4,
       color: '#D6AB00',
       icon: appTabIcon4,
-      title: 'Cloud Storage',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'Cash out anytime',
+      description: 'It\'s your earnings, get it when you\'re ready.',
       image: appTabImg4,
     },
     {
       id: 5,
       color: '#E97325',
       icon: appTabIcon5,
-      title: 'Customer Support',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'Hit milestones',
+      description: 'Earn awards along the way, see what you achieved.',
       image: appTabImg5,
     },
     {
       id: 6,
       color: '#3DABDD',
       icon: appTabIcon6,
-      title: '10 Times Award',
-      description: 'Get your proof tests delivered home collect a sample.',
+      title: 'Safety first',
+      description: 'The safety of you and the customer is paramount.',
       image: appTabImg6,
     },
   ],
@@ -338,33 +338,33 @@ export const pricing = {
   monthly: [
     {
       id: 1,
-      title: 'Business Class',
-      description: 'For Small teams or office',
+      title: 'Standard',
+      description: 'Best for individuals who doesnt live in a big home',
       suggested: false,
       price: 0,
       features: [
         {
           id: 1,
-          text: 'Drag & Drop Builder',
+          text: 'Two deep cleanings a month',
         },
         {
           id: 2,
-          text: "1,000's of Templates",
+          text: "Two hour deep clean per visit",
         },
         {
           id: 3,
-          text: 'Blog Support Tools',
+          text: 'Bedroom + Bathroom + Kitchen + Living room',
         },
         {
           id: 4,
-          text: 'eCommerce Store ',
+          text: 'Lock in your favorite cleaner',
         },
       ],
     },
     {
       id: 2,
-      title: 'Pro Master',
-      description: 'For Best opportunities',
+      title: 'Premium',
+      description: 'Best for Professionals with family',
       suggested: true,
       price: 99,
       trail: 14,
@@ -372,19 +372,19 @@ export const pricing = {
       features: [
         {
           id: 1,
-          text: 'Drag & Drop Builder',
+          text: 'Four deep cleanings a month',
         },
         {
           id: 2,
-          text: "1,000's of Templates",
+          text: "Two hour deep clean per visit",
         },
         {
           id: 3,
-          text: 'Blog Support Tools',
+          text: 'Bedroom + Bathroom + Kitchen + Living room + appliances',
         },
         {
           id: 4,
-          text: 'eCommerce Store ',
+          text: 'Lock in your favorite cleaner',
         },
       ],
     },
@@ -392,7 +392,7 @@ export const pricing = {
   annualy: [
     {
       id: 1,
-      title: 'Pro Master',
+      title: 'Standard Master',
       description: 'For Small teams or office',
       suggested: true,
       price: 999,
@@ -401,25 +401,25 @@ export const pricing = {
       features: [
         {
           id: 1,
-          text: 'Drag & Drop Builder',
+          text: 'Two deep cleanings a month',
         },
         {
           id: 2,
-          text: "1,000's of Templates",
+          text: "Two hour deep clean per visit",
         },
         {
           id: 3,
-          text: 'Blog Support Tools',
+          text: 'Bedroom + Bathroom + Kitchen + Living room',
         },
         {
           id: 4,
-          text: 'eCommerce Store ',
+          text: 'Lock in your favorite cleaner',
         },
       ],
     },
     {
       id: 2,
-      title: 'Enterprise',
+      title: 'Professional Grade',
       description: 'For Best opportunities',
       suggested: false,
       price: 1299,
@@ -428,20 +428,19 @@ export const pricing = {
       features: [
         {
           id: 1,
-          text: 'Drag & Drop Builder',
+          text: 'Four deep cleanings a month',
         },
         {
           id: 2,
-          text: "1,000's of Templates",
+          text: "Two hour deep clean per visit",
         },
         {
           id: 3,
-          text: 'Blog Support Tools',
+          text: 'Bedroom + Bathroom + Kitchen + Living room + appliances',
         },
         {
           id: 4,
-          text: 'eCommerce Store ',
-        },
+          text: 'Lock in your favorite cleaner',},
       ],
     },
   ],
@@ -456,24 +455,24 @@ export const testimonial = {
   reviews: [
     {
       id: 1,
-      title: 'Modern look & trending design',
+      title: 'My home never looked better',
       description:
-        'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features Lorem ipsum dolor sit amet consectetur adipisicing.',
       avatar:
         'https://pbs.twimg.com/profile_images/974736784906248192/gPZwCbdS.jpg',
-      name: 'Jon Doe',
-      designation: 'CEO of RedQ Inc.',
+      name: 'Jeremy Klaxton',
+      designation: 'Standard Subscription',
       review: 4,
     },
     {
       id: 2,
-      title: 'User friendly & Customizable',
+      title: 'Super professional will definitely use again',
       description:
         'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features Lorem ipsum dolor sit amet consectetur adipisicing.',
       avatar: 'https://randomuser.me/api/portraits/women/44.jpg',
-      name: 'Jeny Doe',
-      designation: 'Co Founder of RedQ Inc.',
-      review: 5,
+      name: 'Jenny Blanchet',
+      designation: 'Premium Subscription',
+      review: 4,
     },
     {
       id: 3,
@@ -482,8 +481,8 @@ export const testimonial = {
         'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features Lorem ipsum dolor sit amet consectetur adipisicing.',
       avatar:
         'https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg',
-      name: 'Jon Doe',
-      designation: 'Co Founder of RedQ Inc.',
+      name: 'James Hart',
+      designation: 'Premium Subscription',
       review: 5,
     },
   ],
@@ -498,7 +497,7 @@ export const faq = {
   faqs: [
     {
       id: 1,
-      question: 'How to contact with riders emergency?',
+      question: 'How to contact Cleaners in emergency?',
       answer:
         'Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home. Your blood tests delivered at the home collect a sample from management news. Get your blood tests delivered at the home collect a sample from management news.',
     },

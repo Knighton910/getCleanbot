@@ -7,7 +7,7 @@ import Heading from 'common/src/components/Heading';
 import Logo from 'common/src/components/UIElements/Logo';
 import Container from 'common/src/components/UI/Container';
 import FooterWrapper, { List, ListItem } from './footer.style';
-import LogoImage from 'common/src/assets/image/app/logo.png';
+import LogoImage from 'common/src/assets/image/app/cor.png';
 
 import data from 'common/src/data/App/Footer';
 
