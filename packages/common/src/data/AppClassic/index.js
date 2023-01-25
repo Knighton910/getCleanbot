@@ -133,6 +133,8 @@ export const keyFeatures = {
 import appSlide1 from 'common/src/assets/image/appClassic/enroutev2.png';
 import appSlide2 from 'common/src/assets/image/appClassic/loginOrsignin.png';
 import appSlide3 from 'common/src/assets/image/appClassic/PremiumCleaner.png';
+import sanitize from 'common/src/assets/image/appClassic/cleaning-spray.png';
+import certifed from 'common/src/assets/image/appClassic/certified.png';
 
 
 export const appSlider = {
@@ -159,7 +161,7 @@ export const appSlider = {
   features: [
     {
       id: 1,
-      icon: 'flaticon-bitcoin',
+      icon: certifed,
       title: 'Certified Cleaners',
       description: 'We only work with professional and certified cleaners that you can trust.',
     },
@@ -172,7 +174,7 @@ export const appSlider = {
     },
     {
       id: 3,
-      icon: 'flaticon-money-bag',
+      icon: sanitize,
       title: 'Sanitize every square inch',
       description:
         'Get all of your surfaces cleaned',

@@ -12,7 +12,7 @@ import BannerWrapper, {
   BannerContent,
   Mascot,
   BannerImage,
-  ButtonGroup,
+  ButtonGroup
 } from './banner.style';
 
 import microsoft from 'common/src/assets/image/appClassic/microsoft.svg';
@@ -38,10 +38,7 @@ const Banner = () => {
             />
           </Fade>
           <Fade up delay={200}>
-            <Text
-              content="A clean apartment isn't always feasible when you have a busy schedule with work and the kids.
-              We alleviate that stress, so you can focus doing what you do best."
-            />
+            <Text content="Our robots aid cleaners in they're tasks, not take their jobs." />
           </Fade>
           <Fade up delay={300}>
             <ButtonGroup>
